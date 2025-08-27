@@ -1,1 +1,1 @@
-# python_mini_projects
+# This project contains simple python console based games using pygame library
